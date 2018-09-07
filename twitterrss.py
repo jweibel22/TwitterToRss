@@ -3,10 +3,10 @@ from email.utils import parsedate
 import time
 from email import utils
 
-consumer_key = "nAP8BlEbgJdFLxzPO0QFFvayP"                    
-consumer_secret = "GkaWeCTFDTty0CLf8Qz0y36Bjo5EJHEp3IACBvDGohuE1FPTtv"
-access_token_key = "737794747-WviSERa68LersvI30nYm2DT2UDxiwyhgr3oNYcVf"
-access_token_secret = "lJMEsyd2Fg2bSlDdTXRdUO41CDL2qT0uM82vfjmujQJuj"
+consumer_key = "xxx"                    
+consumer_secret = "xxx"
+access_token_key = "xxx"
+access_token_secret = "xxx"
 
 api = twitter.Api(consumer_key, consumer_secret, access_token_key, access_token_secret)
         
